@@ -1,2 +1,2 @@
 # sft-cert
-testing repo for git
+testing repo for git certification requirements
